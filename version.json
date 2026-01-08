@@ -1,6 +1,6 @@
 {
   "status": "up",
-  "version": "2.5.6 R1",
+  "version": "2.5.6 R2",
   "roblox_version": "version-89d89cb2d6b649be",
-  "changelog": "BUNNI UPDATE\n\nGeneral\n- [+] Fixed a crash related to the Myriad validity test\n- [+] Reverted the type-checking rewrite due to instability and random crashes\n\nActor Lib\n- [+] Rewrote `run_on_actor`, fixing random crashes\n- [+] Fixed `isparallel` crashing\n\nMisc\n- [+] Fixed `gethui` alias typo (`get_hidden_gui` was incorrectly `get_hidden_ui`)\n\nDetection Status\n- [+] Bunni bypasses client modification checks"
+  "changelog": "BUNNI UPDATE\n\nGeneral\n- [+] Fixed a crash on inject in Deepwoken\n\nDetection Status\n- [+] Bunni bypasses client modification checks"
 }
